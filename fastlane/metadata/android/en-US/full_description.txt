@@ -1,3 +1,11 @@
+<b>Conversation mode</b>
+In this mode, you can connect with another phone that uses this app.
+- When you talk, your phone (or the **Bluetooth headset**, if connected) will capture the audio.
+- The audio captured will be converted into text and sent to the interlocutor's phone.
+- The interlocutors' phone will translate the text received into his language.
+- The interlocutors' phone will convert the translated text into audio and will reproduce it from its speaker (or by the Bluetooth headset of the interlocutor if connected to his phone).
+All this in both directions.
+
 <b>WalkieTalkie mode</b>
 
 This mode is designed for quick conversations, such as asking for information on the street or talking to a shop assistant.
