@@ -33,7 +33,6 @@ This mode is designed for quick conversations, such as asking for information on
 
 This mode translates conversations between two people. You have to talk in turns.
 Press the button of your language and start speaking. The app will translate the audio into the other language, convert the text into audio, and then reproduce it from the phone speaker.
-
 <br /><br />
 
 <h3>Text translation mode</h3>
