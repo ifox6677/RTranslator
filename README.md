@@ -1,6 +1,6 @@
 <img src="https://github.com/niedev/RTranslator/blob/v2.00/images/logo_beta_cut.png" width="280">
 
-RTranslator is an (<a href='https://github.com/niedev/RTranslator?tab=readme-ov-file#libraries-and-models'>almost</a>) open-source, free, and offline real-time translation app for Android.
+RTranslator Open is an open-source, free, and offline real-time translation app for Android.
 
 Connect to someone who has the app, connect Bluetooth headphones, put the phone in your pocket and you can have a conversation as if the other person spoke your language.
 <br /><br />
@@ -29,12 +29,11 @@ Each user can have more than one connected phone so that you can translate conve
 
 <h3>WalkieTalkie mode</h3>
 
-If conversation mode is useful for having a long conversation with someone, this mode instead is designed for quick conversations, such as asking for information on the street or talking to a shop assistant.
+This mode is designed for quick conversations, such as asking for information on the street or talking to a shop assistant.
 
-This mode only translates conversations between two people, it doesn't work with Bluetooth headsets, and you have to talk in turns. It's not a real simultaneous translation, but it can work with **only one phone**.
+This mode translates conversations between two people. You have to talk in turns.
+Press the button of your language and start speaking. The app will translate the audio into the other language, convert the text into audio, and then reproduce it from the phone speaker.
 
-In this mode, the smartphone microphone will listen in two languages (selectable in the same screen of the walkie talkie mode) simultaneously. <br />
-The app will detect in which language the interlocutor is speaking, translate the audio into the other language, convert the text into audio, and then reproduce it from the phone speaker. When the TTS has finished, it will automatically resume listening.
 <br /><br />
 
 <h3>Text translation mode</h3>
